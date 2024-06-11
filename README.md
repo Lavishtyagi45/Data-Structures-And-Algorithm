@@ -38,13 +38,13 @@ Welcome to my Data Structures and Algorithms (DSA) preparation journey! In this 
 ## Progress
 
 - [x] Arrays level-0
-- [ ] Basic Sorting Algorithms level-0
-- [ ] Strings level-0
-- [ ] Linked Lists level-0
-- [ ] Stacks level-0
+- [x] Basic Sorting Algorithms level-0
+- [x] Strings level-0
+- [x] Linked Lists level-0
+- [x] Stacks level-0
 - [ ] Heap level-0
-- [ ] Queues level-0
-- [ ] Trees level-0
+- [x] Queues level-0
+- [x] Trees level-0
 - [ ] Graphs level-0
 - [ ] Dynamic Programming level-0
 - [ ] Backtracking level-0
